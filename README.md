@@ -2,7 +2,7 @@
 
 In the file [`main.txt`](main.txt), you will find data formatted as follows:
 
-''' 978-1523502776 10 4 0 0 3 2 0 '''
+''' 978-1523502776 10 4 0 0 3 2 0 
 ### Breakdown of the Data
 
 - **ISBN**: `978-1523502776`  
@@ -20,3 +20,4 @@ In the file [`main.txt`](main.txt), you will find data formatted as follows:
   - **Sunday**: 0 borrowers
 
 This data provides a weekly overview of book borrowing patterns, which can be useful for analyzing trends and managing library resources.
+![Project Logo](fig.png)
